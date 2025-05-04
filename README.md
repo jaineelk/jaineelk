@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on GSOC<br>🤝 I’m looking for help with Github Repos<br>🌱 I’m currently learning Springboot <br>💬 Ask me about core Java<br>⚡ Fun fact
+🔭 I’m currently working on Java<br>👯 I’m looking to collaborate on GSOC<br>🤝 I’m looking for help with Github Repos<br>🌱 I’m currently learning Springboot <br>💬 Ask me about core Java<br>
 
 
 ## 🌐 Socials:
